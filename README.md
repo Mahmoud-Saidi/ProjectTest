@@ -1,6 +1,7 @@
 # ProjectTest
 
 To test this project you should install and run Spark, HDFS, and Hive, then you should create an external table hive, for exemple:
+
 CREATE EXTERNAL TABLE external_table_test
 (
   id INT,
