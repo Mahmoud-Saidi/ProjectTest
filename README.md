@@ -35,4 +35,5 @@ The commande to run the unit test test_rest_api.py : python3 -m unittest test.te
 
 In src folder you found the configuration file : config.ini
 
-
+## Produce a system diagram of your solution deployed to Kubernetes
+You should install Spark, HDFS and Hive in Docker image and deploy it in Kubernetes, after that you can folow the steps above. 
